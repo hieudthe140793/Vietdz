@@ -5,8 +5,8 @@ import java.math.RoundingMode;
 import javax.swing.JTextField;
 
 public class CalculatorLogic {
-
-    private BigDecimal num1, num2, result;
+     private viet;
+     private BigDecimal num1, num2, result;
     private BigDecimal memory = new BigDecimal("0");
     private String operator;
     private boolean firstCalculate = true;
